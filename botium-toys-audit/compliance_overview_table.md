@@ -1,0 +1,9 @@
+## Compliance Overview
+
+| Framework / Regulation | Applies To | Summary Explanation | Relevance |
+|------------------------|------------|---------------------|-----------|
+| **FERC–NERC** | U.S. and North American electric utilities | Establishes mandatory Critical Infrastructure Protection (CIP) standards to secure the electrical grid. Requires reporting, mitigation, and strict controls to prevent incidents that could affect grid reliability. |  Not applicable unless working with power or energy infrastructure. |
+| **GDPR (General Data Protection Regulation)** | Organizations processing data of EU residents | Defines strict rules for collecting, processing, storing, and protecting personal data. Grants individuals rights over their data and requires breach notification within 72 hours. |  Highly relevant for privacy, data protection, and global compliance. |
+| **PCI DSS (Payment Card Industry Data Security Standard)** | Businesses handling credit card data | International security standard that requires strong controls such as encryption, network segmentation, access management, and continuous monitoring to protect cardholder data. |  Relevant for any environment handling payment information. |
+| **HIPAA (Health Insurance Portability and Accountability Act)** | U.S. healthcare providers and partners | Protects patient health information through strict privacy and security rules. Applies only to medical entities and their business associates. | Not applicable unless working with medical data. |
+| **SOC 1 / SOC 2 (System and Organization Controls)** | Technology, cloud, SaaS, financial, service providers | SOC 1 focuses on financial controls; SOC 2 evaluates security, availability, confidentiality, integrity, and privacy using Trust Services Criteria. Used to validate organizational security posture. |  Widely applicable for cloud, IT, and cybersecurity environments. |
