@@ -6,5 +6,3 @@ The goal of this portfolio is to document practical skills, analytical processes
 
 All projects in this repository are implemented for learning purposes in controlled environments and follow ethical and defensive security practices.
 
-## License
-This project is licensed under the MIT License, allowing others to view, use, and adapt the content for educational purposes.
