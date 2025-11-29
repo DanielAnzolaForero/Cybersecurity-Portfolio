@@ -44,7 +44,7 @@ The assessment covers all IT-managed assets, including:
 
 | Control Name | Control Purpose | Implement? | Priority |
 |--------------|----------------|------------|----------|
-| Firewall | Already implemented; filters malicious or unwanted traffic. | N/A | N/A |
+| Firewall | Already implemented. | N/A | N/A |
 | Intrusion Detection System (IDS) | Detects anomalous or suspicious activity on the network. | Yes | High |
 | Encryption | Secures sensitive information, especially transactions and user data. | Yes | High |
 | Backups | Supports recovery and reduces downtime during incidents. | Yes | High |
