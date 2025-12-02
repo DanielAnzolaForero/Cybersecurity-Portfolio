@@ -1,11 +1,11 @@
 
-# Linux File Permissions Audit
+# Linux File Permissions Audit  
 
 ## Project Objective
 
 Serving as a security professional, the goal of this project was to conduct a filesystem audit within the `/home/researcher2/projects` directory to **ensure compliance with organizational authorization policies**. This involved identifying and correcting excessive or inappropriate permissions that posed a security risk.
 
-## Technical Solution
+## Technical Solution To The Problem
 
 Key Linux administration commands were used to remediate the vulnerabilities:
 
